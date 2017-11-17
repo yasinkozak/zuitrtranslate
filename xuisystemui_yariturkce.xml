@@ -22,7 +22,7 @@ herhangi bir dokunma durduracaktır."</string>
     <string name="open_gallery">Kilit ekranı galerisi etkin. Günlük olarak kilit ekranı görüntünüz otomatik olarak değişecektir.</string>
     <string name="gallery_welcome_close">Kapat</string>
     <string name="gallery_welcome_title">Kilit ekranı galerisi</string>
-    <string name="gallery_welcome_content">ZUI ve diğer önde gelen medya şirketleri tarafından sizin için özel olarak oluşturulmuş kilit ekranı görüntünüz için ücretsiz Abonelik ile Kilit Ekran Galerisi'ni etkinleştirin. Doğal sahneler, insan manzarası, moda ve sağlık, son haberler ve nihai görsel deneyim için diğer muhteşem temalar arasından rakipsiz bir duvar kağıtları grubuna erişin. Her gün 3 farklı duvar kağıdı alacaksınız, bunlardan biri otomatik olarak kilit ekranınızın arka planı olarak ayarlanacaktır.</string>
+    <string name="gallery_welcome_content">ZUI ve diğer önde gelen medya şirketleri tarafından sizin için özel olarak oluşturulmuş kilit ekranı görüntünüz için ücretsiz Abonelik ile Kilit Ekran Galerisi'ni etkinleştirin. Doğal sahneler, insan manzarası, moda ve sağlık, son haberler ve nihai görsel deneyim için diğer muhteşem temalar arasından eşsiz bir duvar kağıtları grubuna erişin. Her gün 3 farklı duvar kağıdı alacaksınız, bunlardan biri otomatik olarak kilit ekranınızın arka planı olarak ayarlanacaktır.</string>
     <string name="gallery_welcome_go">Şimdi keşfet</string>
     <string name="gallery_set">Ayarla</string>
     <string name="gallery_more">Daha fazla</string>
@@ -513,10 +513,10 @@ Uzun süre yüksek sesle dinlemek işitme duyunuza zarar verebilir."</string>
     <string name="address_title">Adres</string>
     <string name="inviter_title">Davetçi</string>
     <string name="mailbox">Posta kutusu</string>
-    <string name="contact_title">Phone No.</string>
-    <string name="getno_title">Code</string>
-    <string name="getaddress_title">Address</string>
-    <string name="meeting_delay">Delay</string>
+    <string name="contact_title">Telefon No.</string>
+    <string name="getno_title">Kod</string>
+    <string name="getaddress_title">Addres</string>
+    <string name="meeting_delay">Gecikme</string>
     <string name="meeting_detail">Detail</string>
     <string name="notification_data_flow_today_used_str">today:%s</string>
     <string name="notification_data_flow_used_left_str">surplus:%s</string>
