@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="İptal">İptal</string>
+    <string name="cancel">İptal</string>
     <string name="save">Kaydet</string>
     <string name="tips_begin_long_screenshot_text">"Otomatik ekran görüntüsü alınırken
 herhangi bir dokunma durduracaktır."</string>
@@ -113,7 +113,7 @@ herhangi bir dokunma durduracaktır."</string>
     <string name="password_keyboard_label_alpha_key">ABC</string>
     <string name="password_keyboard_label_alt_key">ALT</string>
     <string name="keyboardview_keycode_alt">Alt</string>
-    <string name="keyboardview_keycode_İptal">İptal</string>
+    <string name="keyboardview_keycode_cancel">İptal</string>
     <string name="keyboardview_keycode_delete">Sil</string>
     <string name="keyboardview_keycode_done">Tamam</string>
     <string name="keyboardview_keycode_mode_change">Mod değiştir</string>
@@ -214,7 +214,7 @@ herhangi bir dokunma durduracaktır."</string>
     <string name="keyboard_confirm_key">Tamam</string>
     <string name="fingerprint_empty" />
     <string name="keyguard_sim_not_used_finger">Parmak izi kullanmadan önce SIM kartın kilidini açın</string>
-    <string name="keyguard_pin_İptal">İptal</string>
+    <string name="keyguard_pin_cancel">İptal</string>
     <string name="config_statusBarComponent">com.android.systemui.statusbar.phone.PhoneStatusBar</string>
     <string name="quick_settings_tiles_default">wifi,bt,inversion,cell,airplane,rotation,flashlight,location,cast,hotspot,reboot</string>
     <string name="quick_settings_tiles">default</string>
@@ -277,7 +277,7 @@ herhangi bir dokunma durduracaktır."</string>
     <string name="custom_switch_position_description2">İlk ekran</string>
     <string name="custom_switch_position_description3">İkinci ekran</string>
     <string name="custom_switch_position_description4">Daha...</string>
-    <string name="custom_switch_position_action_İptal">İptal</string>
+    <string name="custom_switch_position_action_cancel">İptal</string>
     <string name="custom_switch_position_action_finish">Bitir</string>
     <string name="allswitch_action_close">Kapat</string>
     <string name="allswitch_action_sort">Çeşit</string>
@@ -286,7 +286,7 @@ herhangi bir dokunma durduracaktır."</string>
     <string name="controlcenter_mmchat_switcher_dialog_title">Makalenin kısayolunu kapat</string>
     <string name="controlcenter_mmchat_switcher_dialog_message">Bu kısayol penceresine dokunarak makaleye geri dönebilirsiniz. Hiçbir Zaman'ı seçtiyseniz, Sistem ayarı'ında bunu hala açabilirsiniz.</string>
     <string name="controlcenter_mmchat_switcher_dialog_button_ok">Asla</string>
-    <string name="controlcenter_mmchat_switcher_dialog_button_İptal">Bir Kere</string>
+    <string name="controlcenter_mmchat_switcher_dialog_button_cancel">Bir Kere</string>
     <string name="controlcenter_allswitches_title">全部</string>
     <string name="control_center_more_settings_tip">Ayarlar sayfasına girmek için bırakın</string>
     <string name="control_center_settings_lockscreen_title">Kilit ekranında göster</string>
@@ -351,7 +351,7 @@ herhangi bir dokunma durduracaktır."</string>
     <string name="screenshot_tip">Yakalama alanı seçin</string>
     <string name="screenshot_full">Tam Ekran</string>
     <string name="screenshot_area">Kırp</string>
-    <string name="screenshot_İptal">İptal</string>
+    <string name="screenshot_cancel">İptal</string>
     <string name="screenshot_share">Paylaş</string>
     <string name="lenovo_screenshot_paint">Boya</string>
     <string name="lenovo_screenshot_flie_name_template">Screenshot_%s.jpeg</string>
@@ -368,7 +368,7 @@ herhangi bir dokunma durduracaktır."</string>
     <string name="lenovo_weather_current_location">Current Location</string>
     <string name="lenovo_weather_sure_add_city">,Do You Add City Surely</string>
     <string name="lenovo_weather_ok">OK</string>
-    <string name="lenovo_weather_İptal">İptal</string>
+    <string name="lenovo_weather_cancel">İptal</string>
     <string name="lenovo_weather_delete">Delete</string>
     <string name="lenovo_weather_set_default">Set Default</string>
     <string name="lenovo_weather_default">(Default)</string>
@@ -428,7 +428,7 @@ herhangi bir dokunma durduracaktır."</string>
     <string name="lenovo_widget_text_shadow">Projector</string>
     <string name="profiles_tilte">Profiles</string>
     <string name="lenovo_dlg_ok">OK</string>
-    <string name="lenovo_dlg_İptal">İptal</string>
+    <string name="lenovo_dlg_cancel">İptal</string>
     <string name="selecte_default_data_card_message">Selecte default data card</string>
     <string name="bluetooth_device_name_unknow">Unknow Device</string>
     <string name="airplanemode_enable">Airplane mode</string>
@@ -989,7 +989,7 @@ Also, you're connected to a VPN (\"%3$s\"). Your VPN service provider can monito
     <string name="keyguard_indication_trust_disabled">Device will stay locked until you manually unlock</string>
     <string name="hidden_notifications_title">Get notifications faster</string>
     <string name="hidden_notifications_text">View notifications without unlocking the device</string>
-    <string name="hidden_notifications_İptal">No, thanks</string>
+    <string name="hidden_notifications_cancel">No, thanks</string>
     <string name="hidden_notifications_setup">Settings</string>
     <string name="muted_by">Muted by %1$s</string>
     <string name="lenovo_low_battery_warning_title_text">Notifications Center prompt</string>
