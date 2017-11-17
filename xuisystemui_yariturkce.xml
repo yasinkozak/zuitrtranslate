@@ -117,8 +117,8 @@ herhangi bir dokunma durduracaktır."</string>
     <string name="keyboardview_keycode_delete">Sil</string>
     <string name="keyboardview_keycode_done">Tamam</string>
     <string name="keyboardview_keycode_mode_change">Mod değiştir</string>
-    <string name="keyboardview_keycode_shift">Shift</string>
-    <string name="keyboardview_keycode_enter">Enter</string>
+    <string name="keyboardview_keycode_shift">Değiştir</string>
+    <string name="keyboardview_keycode_enter">Gir</string>
     <string name="description_target_unlock">Kilidi Aç</string>
     <string name="description_target_camera">Kamera</string>
     <string name="description_target_silent">Sessiz</string>
@@ -139,12 +139,12 @@ herhangi bir dokunma durduracaktır."</string>
     <string name="kg_sim_pin_instructions">SIM PIN'ini gir</string>
     <string name="kg_pin_instructions">PIN'ini Gir</string>
     <string name="kg_password_instructions">Şifreni gir</string>
-    <string name="kg_puk_enter_puk_hint">SIM artık devre dışı. Devam etmek için PUK kodunu girin. Ayrıntılar için mobil hat sağlayıcınız ile iletişime geçin.</string>
+    <string name="kg_puk_enter_puk_hint">SIM artık devre dışı. Devam etmek için PUK kodunu girin. Ayrıntılar için operatörünüz ile iletişime geçin.</string>
     <string name="kg_puk_enter_pin_hint">İstediğiniz PIN kodunu giriniz</string>
     <string name="kg_enter_confirm_pin_hint">İstediğiniz PIN kodunu onaylayın</string>
     <string name="kg_sim_unlock_progress_dialog_message">SIM kart kilidi açılıyor…</string>
-    <string name="kg_invalid_sim_pin_hint">4 ila 8 sayıdaki bir PIN girin.</string>
-    <string name="kg_invalid_sim_puk_hint">PUK kodu 8 sayı veya daha fazla olmalıdır.</string>
+    <string name="kg_invalid_sim_pin_hint">4 ile 8 rakamlı bir PIN girin</string>
+    <string name="kg_invalid_sim_puk_hint">Puk kodu 8 veya daha fazla rakamdan oluşmalıdır.</string>
     <string name="kg_invalid_puk">Doğru PUK kodunu tekrar girin. Tekrarlanan denemeler SIM'i kalıcı olarak devre dışı bırakır.</string>
     <string name="kg_invalid_confirm_pin_hint">PIN kodları uyuşmuyor</string>
     <string name="kg_login_too_many_attempts">Çok fazla desen denemesi</string>
@@ -165,9 +165,9 @@ herhangi bir dokunma durduracaktır."</string>
     <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Deseni %d kez hatalı çizdiniz. 
 
  %d saniye sonra tekrar deneyin."</string>
-    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">%d kez telefonun kilidini açmayı yanlış bir şekilde denediniz. %d kez daha başarısız girişimden sonra telefon fabrika varsayılanına sıfırlanacak ve tüm kullanıcı verileri kaybolacaktır.</string>
-    <string name="kg_failed_attempts_now_wiping">%d kez telefonun kilidini açmayı yanlış bir şekilde denediniz. Telefon şimdi fabrika varsayılanına sıfırlanacaktır.</string>
-    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Kilit açma deseninizi %d kez yanlış çizdiniz. %d kere daha başarısız girişimden sonra, bir e-posta hesabı kullanarak telefonunuzun kilidini açmanız istenir.
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">%d kez telefonun kilidini açmayı yanlış bir şekilde denediniz. %d başarısız girişimden sonra telefon fabrika ayarlarına sıfırlanacak ve tüm kullanıcı verileri kaybolacaktır.</string>
+    <string name="kg_failed_attempts_now_wiping">%d kez telefonun kilidini açmayı yanlış bir şekilde denediniz. Telefon şimdi fabrika ayarlarına sıfırlanacaktır.</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Kilit açma deseninizi %d kez yanlış çizdiniz. %d başarısız girişimden sonra, bir e-posta hesabı kullanarak telefonunuzun kilidini açmanız istenir.
 
  %d saniye sonra tekrar deneyin"</string>
     <string name="kg_text_message_separator">" — "</string>
@@ -202,7 +202,7 @@ herhangi bir dokunma durduracaktır."</string>
     <string name="kg_password_default_puk_message_top">SIM kart kilitli. Kilidini açmak için PUK kodunu girin</string>
     <string name="kg_password_wrong_puk_code_top">Yanlış PUK kodu</string>
     <string name="fingerprint_input_txt">Kilidi açmak için parmak izi veya parola girin</string>
-    <string name="fingerprint_not_input_txt">Parmak izini tanımak mümkün değil. Lütfen şifrenizi giriniz</string>
+    <string name="fingerprint_not_input_txt">Parmak iz tanımlanamıyor. Lütfen şifrenizi giriniz</string>
     <string name="fingerprint_input_txt_pattern">Kilidini açmak için parmak izini girin veya kilit açma desenini çizin</string>
     <string name="fingerprint_not_input_txt_pattern">Parmak izini tanımak mümkün değil. Lütfen kilit açma desenini çizin</string>
     <string name="fingerprint_input_again">Tekrar deneyin ve sensörü temiz tutun</string>
@@ -225,7 +225,7 @@ herhangi bir dokunma durduracaktır."</string>
     <string name="widget_text_wlan">Kablosuz</string>
     <string name="widget_text_wlan_ex">Kablosuz</string>
     <string name="widget_text_bluetooth">Bluetooth</string>
-    <string name="widget_text_auto_rotate">Otomatik Döndürm</string>
+    <string name="widget_text_auto_rotate">Otomatik Döndürme</string>
     <string name="widget_text_autobrightness">Parlaklık</string>
     <string name="widget_text_mobile_data">Mobil Veri</string>
     <string name="widget_text_gps">Konum</string>
@@ -243,7 +243,7 @@ herhangi bir dokunma durduracaktır."</string>
     <string name="widget_text_reboot">Yeniden Başlat</string>
     <string name="widget_text_lockscreen">Kilit Ekranı</string>
     <string name="widget_text_system_settings">Ayarlar</string>
-    <string name="widget_text_widget_sequence">Anahtarlama Sırası</string>
+    <string name="widget_text_widget_sequence">Devre sıralaması</string>
     <string name="widget_text_system_clean">RAM Temizle</string>
     <string name="widget_text_multi_task">Son İşlemler</string>
     <string name="widget_text_back_home">Masaüstü</string>
@@ -260,8 +260,8 @@ herhangi bir dokunma durduracaktır."</string>
     <string name="widget_text_litvideo">WeChat Görüş</string>
     <string name="control_center_prompt_airplane_on">Uçak modu aktif.</string>
     <string name="control_center_prompt_simcard_out">SIM yok</string>
-    <string name="control_center_prompt_mute_vibrate_on">Sessiz açıkken titreşim açık</string>
-    <string name="control_center_prompt_mute_vibrate_off">Sessiz açıkken titreşim kapalı</string>
+    <string name="control_center_prompt_mute_vibrate_on">Sessiz modda titreşim açık</string>
+    <string name="control_center_prompt_mute_vibrate_off">Sessiz modda titreşim kapalı</string>
     <string name="control_center_prompt_ring_vibrate_on">Zil çalarken titreşim açık</string>
     <string name="control_center_prompt_ring_vibrate_off">Zil çalarken titreşim kapalı</string>
     <string name="control_center_prompt_screenshot_busy">Kaydediliyor, lütfen yeni bir ekran görüntüsü almadan önce bekleyin.</string>
@@ -273,7 +273,7 @@ herhangi bir dokunma durduracaktır."</string>
     <string name="control_center_prompt_calculator_notinstalled">Hesap makinesi yüklü değil.</string>
     <string name="custom_switch_position_reorder">Hızlı Panel Sırası</string>
     <string name="custom_switch_position_title">Hızlı Panel</string>
-    <string name="custom_switch_position_description">Long press for icon reordering</string>
+    <string name="custom_switch_position_description">Simgeleri yeniden düzenlemek için uzun basın</string>
     <string name="custom_switch_position_description2">İlk ekran</string>
     <string name="custom_switch_position_description3">İkinci ekran</string>
     <string name="custom_switch_position_description4">Daha...</string>
@@ -305,7 +305,7 @@ herhangi bir dokunma durduracaktır."</string>
     <string name="screenshot_saved_title">Ekran görüntüsü alındı</string>
     <string name="screenshot_saved_text">"Ekran görüntüsünü görmek için hafifçe dokunun. "</string>
     <string name="screenshot_failed_title">"Ekran görüntüsü yakalanamadı "</string>
-    <string name="screenshot_failed_text">"Yetersiz depolama alanı olabilir, çünkü bu işlem uygulama / cihazınız tarafından izin verilmiyor. "</string>
+    <string name="screenshot_failed_text">"Depolama alanı yetersiz ya da bu işleme cihazınız/uygulama tarafından izin verilmiyor"</string>
     <string name="screenshot_cropping_title">Ekran görüntüsünü kırpma…</string>
     <string name="screenshot_cropping_text">"Ekran görüntüsünü kırpma. "</string>
     <string name="red_packets_flag">[微信红包]</string>
@@ -344,7 +344,7 @@ herhangi bir dokunma durduracaktır."</string>
     <string name="todayview_notificationbar_title">"Bugünün Programı"</string>
     <string name="expand_todayview_notificationbar_content">Bugünün içeriğini görmek için çift parmakla genişlet.</string>
     <string name="todayview_notificationbar_content_nothing">Bugün için ajandanızda hiçbir şey ayarlanmamış!</string>
-    <string name="todayview_notificationbar_summary">"Bugünkü Zamanlama Bildirilerini Aşağı Açılır Şekilde Göster"</string>
+    <string name="todayview_notificationbar_summary">"Bugünün programını aşağı doğru açılan pencerede göster"</string>
     <string name="twelve_hour_time_format_cn">a h:mm</string>
     <string name="twelve_hour_time_format">h:mm a</string>
     <string name="twenty_four_hour_time_format">HH:mm</string>
@@ -364,7 +364,7 @@ herhangi bir dokunma durduracaktır."</string>
     <string name="lenovo_weather_add_city_error">Şehir eklenirken hata</string>
     <string name="lenovo_weather_searching">Aranıyor...</string>
     <string name="lenovo_weather_not_find_city">Şehir Bulunamadı</string>
-    <string name="lenovo_weather_locaty_city_is_same">Aynı yerde bulunuyorsun</string>
+    <string name="lenovo_weather_locaty_city_is_same">Aynı şehri tespit edin</string>
     <string name="lenovo_weather_current_location">Şuanki konum</string>
     <string name="lenovo_weather_sure_add_city">,Gerçekten bu şehri eklemek istiyor musun?</string>
     <string name="lenovo_weather_ok">Tamam</string>
@@ -411,7 +411,7 @@ herhangi bir dokunma durduracaktır."</string>
     <string name="lenovo_charge_completed_msg_sub_title">Lütfen şarj cihazını çıkartın</string>
     <string name="battery_temp_title">Anormal pil sıcaklığı!!</string>
     <string name="battery_temp_subtitle">Pil sıcaklığı çok yüksek. Telefon kapatılıyor!</string>
-    <string name="shutdown_count_format">Pil çok düşük. Kapatılıyor.</string>
+    <string name="shutdown_count_format">Pil seviyesi çok düşük. Kapatılıyor.</string>
     <string name="shutdown_left_time">Kapatılıncaya dek 30 saniye. Kalan %d</string>
     <string name="lenovo_low_battery_warning_shut_down_text">Kapat</string>
     <string name="battery_low_why">Ayarlar</string>
@@ -424,7 +424,7 @@ herhangi bir dokunma durduracaktır."</string>
     <string name="lockscreen_carrier_default_CU">SIM kart yok</string>
     <string name="lenovo_widget_text_system_settings">Ayarlar</string>
     <string name="lenovo_widget_text_smartswitch">Lenovo Akıllı Değiştirme</string>
-    <string name="accessibility_sleep">%1$ Saniye içerisinde uyku</string>
+    <string name="accessibility_sleep">%1$s Saniye içerisinde uyku</string>
     <string name="lenovo_widget_text_shadow">Projektör</string>
     <string name="profiles_tilte">Profiller</string>
     <string name="lenovo_dlg_ok">Tamam</string>
@@ -448,7 +448,7 @@ herhangi bir dokunma durduracaktır."</string>
     <string name="select_default_data_card_when_calling_message">Çağrı açık, lütfen daha sonra tekrar deneyin!</string>
     <string name="mobile_data_connecting_message">Veri bağlantısı…</string>
     <string name="mobile">Veri bağlantısı</string>
-    <string name="turn_on_mobile_data_warning">Veri bağlantısını açın, cep telefonu bazı GPRS verilerini kullanacaktır. Belirli ücretler operatöre kalmıştır. Açacağından emin misin?</string>
+    <string name="turn_on_mobile_data_warning">Cep telefonun mobil veri kullanması için veri bağlantısını açın. Operatörünüz tarafından bu işlem için ücret alınabilir. Veri bağlantısını açmak istediğinize emin misiniz?</string>
     <string name="next_time_no_warning">Gelecek sefer uyarma.</string>
     <string name="lenovo_status_bar_all_switch_introduce">"Buraya Tıkla
 bildirim merkezi ayarlarına girmek için"</string>
@@ -464,7 +464,7 @@ bildirim merkezi ayarlarına girmek için"</string>
     <string name="volume_music_title">Medya Sesleri</string>
     <string name="volume_incall_title">Sesli arama ses düzeyi</string>
     <string name="volume_mute_title">Sessiz</string>
-    <string name="volume_safe_media_volume_warning">"Ses düzeyini önerilen seviyenin üstünde yükseltmek istiyor musunuz?
+    <string name="volume_safe_media_volume_warning">"Ses düzeyini önerilen seviyenin üstüne yükseltmek istiyor musunuz?
 Uzun süre yüksek sesle dinlemek işitme duyunuza zarar verebilir."</string>
     <string name="lockscreen_airplane_mode_on">Uçak modu</string>
     <string name="lockscreen_missing_sim_message_short">SIM Kart Yok</string>
@@ -482,11 +482,11 @@ Uzun süre yüksek sesle dinlemek işitme duyunuza zarar verebilir."</string>
     <string name="Suning_name">Suning</string>
     <string name="Gome_name">Gome</string>
     <string name="lock_app_icon_toast">Uygulamayı kilitlemek / kilidini açmak için aşağı doğru çekin</string>
-    <string name="onekey_force_clear_toast">"Kilitli ve en son kullanılan uygulama temizlenmez. Tümünü temizlemek için uzun basın."</string>
+    <string name="onekey_force_clear_toast">"Kilitli ve kullanılmakta olan uygulamalar temizlenmez. Tümünü temizlemek için uzun basın."</string>
     <string name="enable_notification">İzin</string>
     <string name="disable_notification">Red</string>
-    <string name="enable_notification_hints">Push bildirimlerini almaya izin verir</string>
-    <string name="notification_hints_title">Push bildirimler</string>
+    <string name="enable_notification_hints">Anlık bildirimlerini almaya izin verir</string>
+    <string name="notification_hints_title">Anlık bildirimler</string>
     <string name="keyword_5">￥</string>
     <string name="keyword_6">[WeChat]</string>
     <string name="service_name">WeChat Red Packet Alert</string>
@@ -497,7 +497,7 @@ Uzun süre yüksek sesle dinlemek işitme duyunuza zarar verebilir."</string>
     <string name="air_no">Air No.</string>
     <string name="air_gate_no">Biniş kapısı</string>
     <string name="air_gate">Check in</string>
-    <string name="air_modify">Düzenle</string>
+    <string name="air_modify">Değiştir</string>
     <string name="car_driver">Sürücü</string>
     <string name="car_type">Araç Tipi</string>
     <string name="car_status">Durum</string>
@@ -511,7 +511,7 @@ Uzun süre yüksek sesle dinlemek işitme duyunuza zarar verebilir."</string>
     <string name="time_title">Zaman</string>
     <string name="port_title">Yer</string>
     <string name="address_title">Adres</string>
-    <string name="inviter_title">Davetçi</string>
+    <string name="inviter_title">Davet eden</string>
     <string name="mailbox">Posta kutusu</string>
     <string name="contact_title">Telefon No.</string>
     <string name="getno_title">Kod</string>
@@ -571,7 +571,7 @@ Uzun süre yüksek sesle dinlemek işitme duyunuza zarar verebilir."</string>
     <string name="bluetooth_pairing_accept">Pair</string>
     <string name="bluetooth_pairing_accept_all_caps">PAIR</string>
     <string name="bluetooth_pairing_decline">İptal</string>
-    <string name="bluetooth_pairing_will_share_phonebook">Pairing grants access to your contacts and call history when connected.</string>
+    <string name="bluetooth_pairing_will_share_phonebook">Eşleştirme, bağlandığında kişilerinize ve arama geçmişinize erişmenizi sağlar.</string>
     <string name="bluetooth_pairing_error_message">"Couldn't pair with %1$s."</string>
     <string name="bluetooth_pairing_pin_error_message">"Couldn't pair with %1$s because of an incorrect PIN or passkey."</string>
     <string name="bluetooth_pairing_device_down_error_message">"Can't communicate with %1$s."</string>
@@ -593,7 +593,7 @@ Uzun süre yüksek sesle dinlemek işitme duyunuza zarar verebilir."</string>
     <string name="battery_low_percent_format">%d%% left</string>
     <string name="battery_low_percent_format_saver_started">%d%% remaining. Battery saver is on.</string>
     <string name="invalid_charger">"USB charging not supported. 
-Charging can only be done with the charger provided with this product. "</string>
+Yalnızca bu ürünle birlikte sağlanan cihaz ile şarj edilebilir."</string>
     <string name="invalid_charger_title">USB charging not supported.</string>
     <string name="invalid_charger_text">"Use only the charger provided with this product for charging. "</string>
     <string name="battery_saver_confirmation_title">Enable Battery Saver?</string>
@@ -615,7 +615,7 @@ Charging can only be done with the charger provided with this product. "</string
     <string name="usb_accessory_permission_prompt">Allow the app %1$s to access the USB accessory?</string>
     <string name="usb_device_confirm_prompt">Open %1$s when this USB device is connected?</string>
     <string name="usb_accessory_confirm_prompt">Open %1$s when this USB accessory is connected?</string>
-    <string name="usb_accessory_uri_prompt">No installed apps work with this USB accessory. Learn more about this accessory at %1$s</string>
+    <string name="usb_accessory_uri_prompt">Yüklü uygulamalar bu usb eklentisi ile çalışmaz. Bu eklenti ile ilgili daha fazla bilgi için %1s</string>
     <string name="title_usb_accessory">USB accessory</string>
     <string name="label_view">View</string>
     <string name="always_use_device">Used for this USB device by default</string>
@@ -764,7 +764,7 @@ Charging can only be done with the charger provided with this product. "</string
     <string name="data_usage_disabled_dialog_4g_title">4G data is off</string>
     <string name="data_usage_disabled_dialog_mobile_title">Cellular data is off</string>
     <string name="data_usage_disabled_dialog_title">Data is off</string>
-    <string name="data_usage_disabled_dialog">"Your device turned off data because it reached the limit you set.
+    <string name="data_usage_disabled_dialog">"Belirlemiş olduğunuz sınıra ulaşıldığı için cihazınız veri kullanımını kapadı.
 
 Turning it back on may lead to charges from your carrier."</string>
     <string name="data_usage_disabled_dialog_enable">Turn on data</string>
