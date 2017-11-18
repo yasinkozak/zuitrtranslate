@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="cancel">Cancel</string>
+    <string name="cancel">Cancela</string>
     <string name="save">Save</string>
     <string name="tips_begin_long_screenshot_text">"On automatic screenshot
 Any action will stop the screenshot"</string>
