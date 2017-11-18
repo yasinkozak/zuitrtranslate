@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_label">Contacts Storage</string>
-    <string name="debug_dump_database_message">You are about to 1) make a copy of your database which includes all contacts related information and all call log to the internal storage, and 2) email it. Remember to delete the copy as soon as you have successfully copied it off the device or the email is received.</string>
-    <string name="debug_dump_delete_button">Delete now</string>
-    <string name="debug_dump_email_body">Attached is my contacts database with all my contacts information. Handle with care.</string>
-    <string name="debug_dump_email_sender_picker">Choose a program to send your file</string>
-    <string name="debug_dump_email_subject">Contacts Db attached</string>
-    <string name="debug_dump_start_button">Start</string>
-    <string name="debug_dump_title">Copy contacts database</string>
-    <string name="default_directory">Contacts</string>
-    <string name="local_invisible_directory">Other</string>
-    <string name="provider_label">Contacts</string>
-    <string name="sharedUserLabel">Android Core Apps</string>
-    <string name="upgrade_out_of_memory_notification_text">Tap to complete the upgrade.</string>
-    <string name="upgrade_out_of_memory_notification_ticker">Contacts upgrade needs more memory.</string>
-    <string name="upgrade_out_of_memory_notification_title">Upgrading storage for contacts</string>
-    <string name="voicemail_from_column">"Voicemail from "</string>
-    <string name="group_title_co_workers">Coworkers</string>
-    <string name="group_title_family">Family</string>
-    <string name="group_title_friends">Friends</string>
+    <string name="app_label">Rehber Depolama</string>
+    <string name="debug_dump_database_message">Yapmak üzere olduğunuz 1) tüm kayıtları ve ilgili tüm bilgileri içeren veri tabanının kopyasını dahili belleğe kaydetmek ve 2) e-posta ile göndermek üzeresiniz. Unutmayın, kopyayı cihazdan başarıyla kopyaladıktan sonra silinir veya e-posta gelir.</string>
+    <string name="debug_dump_delete_button">Şimdi Sil</string>
+    <string name="debug_dump_email_body">Eklenmiş olan tüm kişiler bilgilerim ile rehber veritabanım. Dikkatli olun.</string>
+    <string name="debug_dump_email_sender_picker">Dosyanızı göndermek için bir program seçin</string>
+    <string name="debug_dump_email_subject">Kişiler DB eklendi.</string>
+    <string name="debug_dump_start_button">Başla</string>
+    <string name="debug_dump_title">Rehber veritabanını kopyala</string>
+    <string name="default_directory">Kişiler</string>
+    <string name="local_invisible_directory">Diğer</string>
+    <string name="provider_label">Kişiler</string>
+    <string name="sharedUserLabel">Android Çekirdek Uygulamaları</string>
+    <string name="upgrade_out_of_memory_notification_text">Yükseltmeyi tamamlamak için dokunun.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Kişi güncelleme daha fazla bellek gerektiriyor.</string>
+    <string name="upgrade_out_of_memory_notification_title">Kayıtlar için depolama alanını yükseltme</string>
+    <string name="voicemail_from_column">"Adlı kişinin sesli mesajı "</string>
+    <string name="group_title_co_workers">İş arkadaşları</string>
+    <string name="group_title_family">Aile</string>
+    <string name="group_title_friends">Arkadaşlar</string>
     <string name="metadata_sync_pacakge" />
 </resources>
