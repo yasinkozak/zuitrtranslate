@@ -2,9 +2,9 @@
 <resources>
     <string name="app_name">WifiKontrol</string>
     <string name="wifiwarning_notify">WiFi güvenlik uyarısı</string>
-    <string name="wifiwarning_content_dns">Mevcut WiFi \"%1$s\" DNS hizmetleri kötü niyetli müdahale, gizlilik bilgilerinin ifşasına neden olabilir, hesap şifresi çalındı, Önerilen bağlantı kesildi.</string>
-    <string name="wifiwarning_content_fishing">Mevcut WiFi \"%1$s\" yanlış bir WiFi mi，gizlilik bilgilerinin ifşa etmesine, hesap parolasının çalınmasına, maddi hasar görmesine neden olabilir, Önerilen bağlantı kesildi.</string>
-    <string name="wifiwarning_content_arp">Mevcut WiFi \"%1$s\" ARP aldatma saldırısı, gizlilik bilgilerinin ifşa etmesine neden olabilir, hesap şifresi çalındı, Önerilen bağlantı kesildi.</string>
+    <string name="wifiwarning_content_dns">Mevcut WiFi \"%1$s\" DNS hizmetleri kötü niyetli müdahale edilmiş olabilir, gizlilik bilgilerinin ifşasına neden olabilir, hesap şifresi çalınmaması için, bağlantıyı kesin.</string>
+    <string name="wifiwarning_content_fishing">Mevcut WiFi \"%1$s\" yanlış bir WiFi olabilir，gizlilik bilgilerinin ifşa etmesine, hesap parolasının çalınmasına, maddi hasar görmesine neden olabilir, bağlantıyı kesin</string>
+    <string name="wifiwarning_content_arp">Mevcut WiFi \"%1$s\" ARP aldatma saldırısı, gizlilik bilgilerinin ifşa etmesine neden olabilir, hesap şifresi çalındı, bağlantıyı kesin.</string>
     <string name="wifiwarning_btn_goonuse">Devam et</string>
     <string name="wifiwarning_btn_closenet">Bağlantıyı Kes</string>
 </resources>
