@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mainui_cta_short_title_word">
+        <item>Access mobile network</item>
+    </string-array>
+    <string-array name="mainui_cta_short_message_word">
+        <item>Connect the network to commit the log file</item>
+    </string-array>
+    <string-array name="abandon_dialog">
+        <item>@string/dialog_button_abandon_yes</item>
+        <item>@string/dialog_button_abandon_no</item>
+    </string-array>
+    <string-array name="delHistory_dialog">
+        <item>@string/dialog_button_abandon_delete</item>
+        <item>@string/dialog_button_abandon_no</item>
+    </string-array>
+</resources>

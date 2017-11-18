@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="anti_theft_text">Find the phone</string>
+    <string name="antitheft_Complete">Completed</string>
+    <string name="antitheft_back_text">Back</string>
+    <string name="antitheft_ok">OK</string>
+    <string name="antitheft_cancel">Cancel</string>
+    <string name="antitheft_tips">Tip</string>
+    <string name="antitheft_guide_agree_open_switch_text">Enable Find the phone</string>
+    <string name="antitheft_guide_agree_text">I agree to send a message to register, and the fees will charged by carriers.</string>
+    <string name="antitheft_open_switch_tips">“Find the phone” can help you locate or lock your phone, and remotely erase all data from your phone. You can find your lost phone on zhao.lenovomm.com.</string>
+    <string name="antitheft_open_welcome_tips">Welcome to Find the phone</string>
+    <string name="antitheft_setting_safenumber_title">Emergency Contact</string>
+    <string name="antitheft_setting_safenumber_tips">When the phone is lost, a SMS command can be sent via the emergency contact number to receive a text message on the change of cards. We recommend that you enter a family member or friend’s mobile number.</string>
+    <string name="antitheft_setting_safenumber_hint_text">Please enter phone number</string>
+    <string name="antitheft_setting_safenumber_again_hint_text">Please re-enter phone number</string>
+    <string name="antitheft_setting_safenumber_again_guide_text">Re-enter phone number</string>
+    <string name="antitheft_setting_safenumber_no_null_text">Phone number cannot be empty!</string>
+    <string name="antitheft_setting_safenumber_format_wrong_text">Invalid phone number format</string>
+    <string name="antitheft_setting_safenumber_disaccord_wrong_text">The numbers do not match</string>
+    <string name="antitheft_setting_pinnumber_text">SIM card PIN</string>
+    <string name="antitheft_pinnumber_lock_text">After this is enabled, you will need to enter a PIN to use your phone. This prevents your SIM card from being misused when you phone is lost.</string>
+    <string name="antitheft_emergency_contact_description">"Send a text message via the emergency contact number to the lost phone for search.
+The lock instruction: zhao#SD#
+Positioning instruction: zhao#DW#
+The alarm sound: zhao#JB#"</string>
+    <string name="antitheft_setting_close_switch_dialog_text">Close Find</string>
+    <string name="antitheft_setting_switchoff_hint_text">Please enter the account password</string>
+    <string name="antitheft_setting_alertdialog_title_text">Enter the password for \"%1$s\"</string>
+    <string name="antitheft_sms_command_set_emergency_contact_notice1">[Find the phone](1/3)Your number %1$s has been set as an emergency contact.</string>
+    <string name="antitheft_sms_command_set_emergency_contact_notice2">[Find the phone](3/3)You can also locate the phone on zhao.lenovomm.com,to locate the position of my phone and lock it remotely.</string>
+    <string name="antitheft_sms_command_notice_all">"[Find the phone](3/3)When the phone is lost, please send one of the following SMSes to the lost phone.nTo Lock the phone：zhao#SD# 
+Remote positioning：zhao#DW# 
+Sound alarm：zhao#JB#"</string>
+    <string name="antitheft_sms_command_lockscreen_success_result">[Find the phone] Remote locking has been activated and the phone has been permanently locked. If someone picks up your phone, he can call your number %1$s. You can also locate the phone through zhao.lenovomm.com.</string>
+    <string name="antitheft_sms_command_location_success_result">[Fine the phone] Remote locking has been activated. The phone’s current location is \"%1$s\", accurate to \"%2$s meters. Currently location at \"%3$s\". To update the position, please send another positioning command. You can also locate the phone through zhao.lenovomm.com.</string>
+    <string name="antitheft_sms_command_alarm_success_result">[Find the phone] Remote alarm has been activated. The alarm on the phone will be sounded for 1 minute to help you locate your lost your phone. You can also locate the phone on zhao.lenovomm.com.</string>
+    <string name="antitheft_sms_command_devices_static_state">Idle state</string>
+    <string name="antitheft_sms_command_devices_no_static_state">Non-idle state</string>
+    <string name="antitheft_sms_command_change_sim_notice">[Find the phone] My phone card has been changed</string>
+    <string name="antitheft_available_net_fail">Failed to connect to network.</string>
+    <string name="antitheft_lenovoid_pwd_verify_error">Wrong password</string>
+    <string name="antitheft_lenovoid_pwd_verify_error_toomuch">Password error overrun, account temporarily locked. Please try again after 10 minutes.</string>
+    <string name="antitheft_open_switch_need_setting_password">You need to set a password for enabling Find the phone</string>
+    <string name="antitheft_dialog_know">I know</string>
+    <string name="antitheft_ls_sms">I have lost my phone. If you find it, please contact me! Many Thanks!</string>
+    <string name="antitheft_ls_dial">Call the owner</string>
+    <string name="antitheft_ls_emergency_dial">Emergency call</string>
+</resources>
