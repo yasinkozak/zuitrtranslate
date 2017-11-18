@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">WiFiCheck</string>
-    <string name="wifiwarning_notify">WiFi security warning</string>
-    <string name="wifiwarning_content_dns">The current WiFi \"%1$s\" DNS services are malicious tampering, may cause the disclosure of privacy information, account password was stolen, resulting in property damage,Recommended disconnect.</string>
-    <string name="wifiwarning_content_fishing">The current WiFi \"%1$s\" is a false WiFi，may cause the disclosure of privacy information, account password was stolen, resulting in property damage, Recommended disconnect.</string>
-    <string name="wifiwarning_content_arp">The current WiFi \"%1$s\" was ARP deception attack，may cause the disclosure of privacy information, account password was stolen, resulting in property damage, Recommended disconnect.</string>
-    <string name="wifiwarning_btn_goonuse">continue</string>
-    <string name="wifiwarning_btn_closenet">disconnect</string>
+    <string name="app_name">WifiKontrol</string>
+    <string name="wifiwarning_notify">WiFi güvenlik uyarısı</string>
+    <string name="wifiwarning_content_dns">Mevcut WiFi \"%1$s\" DNS hizmetleri kötü niyetli müdahale edilmiş olabilir, gizlilik bilgilerinin ifşasına neden olabilir, hesap şifresi çalınmaması için, bağlantıyı kesin.</string>
+    <string name="wifiwarning_content_fishing">Mevcut WiFi \"%1$s\" yanlış bir WiFi olabilir，gizlilik bilgilerinin ifşa etmesine, hesap parolasının çalınmasına, maddi hasar görmesine neden olabilir, bağlantıyı kesin</string>
+    <string name="wifiwarning_content_arp">Mevcut WiFi \"%1$s\" ARP aldatma saldırısı, gizlilik bilgilerinin ifşa etmesine neden olabilir, hesap şifresi çalındı, bağlantıyı kesin.</string>
+    <string name="wifiwarning_btn_goonuse">Devam et</string>
+    <string name="wifiwarning_btn_closenet">Bağlantıyı Kes</string>
 </resources>
