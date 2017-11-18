@@ -3,7 +3,7 @@
     <string name="app_label">Rehber Depolama</string>
     <string name="debug_dump_database_message">Yapmak üzere olduğunuz 1) tüm kayıtları ve ilgili tüm bilgileri içeren veri tabanının kopyasını dahili belleğe kaydetmek ve 2) e-posta ile göndermek üzeresiniz. Unutmayın, kopyayı cihazdan başarıyla kopyaladıktan sonra silinir veya e-posta gelir.</string>
     <string name="debug_dump_delete_button">Şimdi Sil</string>
-    <string name="debug_dump_email_body">Eklenmiş olan tüm kişiler bilgilerim ile rehber veritabanım. Dikkatli olun.</string>
+    <string name="debug_dump_email_body">Eklenmiş olan tüm kişiler bilgileri ile rehber veritabanındadır. Dikkatli olun.</string>
     <string name="debug_dump_email_sender_picker">Dosyanızı göndermek için bir program seçin</string>
     <string name="debug_dump_email_subject">Kişiler DB eklendi.</string>
     <string name="debug_dump_start_button">Başla</string>
