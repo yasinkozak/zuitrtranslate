@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">XuiResolver</string>
-    <string name="cancel">Cancel</string>
-    <string name="activity_resolver_use_always">Always</string>
-    <string name="activity_resolver_use_once">Just once</string>
-    <string name="noApplications">No apps can perform this action.</string>
-    <string name="toast_message_file_not_exist">The file does not exist !</string>
-    <string name="choose_file_open_type">Please select a file type</string>
-    <string name="text_content_use_always">Always</string>
-    <string name="chooser_display_all">All</string>
-    <string name="resolver_type_text">Text</string>
-    <string name="resolver_type_audio">Audio</string>
-    <string name="resolver_type_video">Videos</string>
-    <string name="resolver_type_image">Images</string>
-    <string name="resolver_type_other">Other</string>
+    <string name="app_name">XuiÇözücü</string>
+    <string name="cancel">İptal</string>
+    <string name="activity_resolver_use_always">Her zaman</string>
+    <string name="activity_resolver_use_once">Sadece bir kere</string>
+    <string name="noApplications">Bu işlemi hiçbir uygulama yapamaz.</string>
+    <string name="toast_message_file_not_exist">Dosya yok!</string>
+    <string name="choose_file_open_type">Lütfen bir dosya türü seçin</string>
+    <string name="text_content_use_always">Her zaman</string>
+    <string name="chooser_display_all">Hepsi</string>
+    <string name="resolver_type_text">Yazı</string>
+    <string name="resolver_type_audio">Ses</string>
+    <string name="resolver_type_video">Video</string>
+    <string name="resolver_type_image">Resim</string>
+    <string name="resolver_type_other">Diğer</string>
 </resources>
