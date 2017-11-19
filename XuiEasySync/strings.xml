@@ -17,7 +17,7 @@
     <string name="photo_backup_task_is_running">Fotografları yedekle</string>
     <string name="sms_auto_task_is_running">Smsler otomatik kaydediliyor</string>
     <string name="sms_onekey_task_is_running">Smsleri kaydediliyor</string>
-    <string name="sms_restore_task_is_running">Smsleri geri yükle</string>
+    <string name="sms_restore_task_is_running">Smsleri yedekleniyor.</string>
     <string name="sms_backup_task_is_running">Smsleri kaydet</string>
     <string name="app_auto_task_is_running">Uygulamalar otomatik olarak yedekleniyor</string>
     <string name="app_onekey_task_is_running">Uygulamalar yedekleniyor</string>
@@ -37,7 +37,7 @@
     <string name="version_update_message4">Yeni sürüm var</string>
     <string name="version_update_message3">Yeni sürüm bulunamadı</string>
     <string name="version_update_message1">Güncelleştirilebilir sürümü sorgularken bir hata oluştu</string>
-    <string name="new_version_info">云BuLut bilgisi %1$s</string>
+    <string name="new_version_info">BuLut bilgisi %1$s</string>
     <string name="update_log">Günlüğü güncelle</string>
     <string name="update_download_later">Tekrar indirmeyi deneyin</string>
     <string name="update_download">Şimdi güncelle</string>
