@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="bookmarks_title">
-        <item>百度</item>
-        <item>新浪</item>
-        <item>网易</item>
-        <item>新浪微博</item>
-        <item>开心网</item>
-        <item>人人网</item>
+        <item>Baidu</item>
+        <item>Sina</item>
+        <item>NetEase</item>
+        <item>Sina microblogging</item>
+        <item>Mutlu ağ</item>
+        <item>Herkes ağı</item>
     </string-array>
     <string-array name="bookmarks_url">
         <item>http://m.baidu.com/</item>
@@ -24,22 +24,22 @@
     </string-array>
     <string-array name="bookmarks_title_cmcc">
         <item>10086门户</item>
-        <item>移动应用商场</item>
-        <item>移动梦网</item>
-        <item>手机阅读</item>
-        <item>手机游戏</item>
-        <item>手机视频</item>
-        <item>无线音乐</item>
+        <item>Mobil uygulama mağazası</item>
+        <item>Monternet</item>
+        <item>Cep telefonu okuma</item>
+        <item>Mobil oyun</item>
+        <item>Mobil video</item>
+        <item>Kablosuz müzik</item>
         <item>12580</item>
     </string-array>
     <string-array name="bookmarks_title_ctcc">
-        <item>新浪微博</item>
-        <item>淘宝</item>
-        <item>大众点评</item>
-        <item>同花顺</item>
-        <item>有道词典</item>
-        <item>QQ浏览器</item>
-        <item>我查查</item>
+        <item>Sina Weibo</item>
+        <item>Taobao</item>
+        <item>Herkese açıklamalar</item>
+        <item>Floş</item>
+        <item>Youdao sözlük</item>
+        <item>QQTarayıcı</item>
+        <item>Kontrol ediyorum</item>
     </string-array>
     <string-array name="bookmarks_title_cucc">
         <item>3G</item>
