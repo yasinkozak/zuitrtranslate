@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="anti_theft_text">Find the phone</string>
-    <string name="antitheft_Complete">Completed</string>
-    <string name="antitheft_back_text">Back</string>
+    <string name="anti_theft_text">Telefonu bul</string>
+    <string name="antitheft_Complete">Tamamlanan</string>
+    <string name="antitheft_back_text">geri</string>
     <string name="antitheft_ok">OK</string>
-    <string name="antitheft_cancel">Cancel</string>
-    <string name="antitheft_tips">Tip</string>
-    <string name="antitheft_guide_agree_open_switch_text">Enable Find the phone</string>
-    <string name="antitheft_guide_agree_text">I agree to send a message to register, and the fees will charged by carriers.</string>
-    <string name="antitheft_open_switch_tips">“Find the phone” can help you locate or lock your phone, and remotely erase all data from your phone. You can find your lost phone on zhao.lenovomm.com.</string>
-    <string name="antitheft_open_welcome_tips">Welcome to Find the phone</string>
-    <string name="antitheft_setting_safenumber_title">Emergency Contact</string>
-    <string name="antitheft_setting_safenumber_tips">When the phone is lost, a SMS command can be sent via the emergency contact number to receive a text message on the change of cards. We recommend that you enter a family member or friend’s mobile number.</string>
-    <string name="antitheft_setting_safenumber_hint_text">Please enter phone number</string>
-    <string name="antitheft_setting_safenumber_again_hint_text">Please re-enter phone number</string>
-    <string name="antitheft_setting_safenumber_again_guide_text">Re-enter phone number</string>
-    <string name="antitheft_setting_safenumber_no_null_text">Phone number cannot be empty!</string>
-    <string name="antitheft_setting_safenumber_format_wrong_text">Invalid phone number format</string>
-    <string name="antitheft_setting_safenumber_disaccord_wrong_text">The numbers do not match</string>
-    <string name="antitheft_setting_pinnumber_text">SIM card PIN</string>
-    <string name="antitheft_pinnumber_lock_text">After this is enabled, you will need to enter a PIN to use your phone. This prevents your SIM card from being misused when you phone is lost.</string>
-    <string name="antitheft_emergency_contact_description">"Send a text message via the emergency contact number to the lost phone for search.
-The lock instruction: zhao#SD#
-Positioning instruction: zhao#DW#
-The alarm sound: zhao#JB#"</string>
-    <string name="antitheft_setting_close_switch_dialog_text">Close Find</string>
-    <string name="antitheft_setting_switchoff_hint_text">Please enter the account password</string>
-    <string name="antitheft_setting_alertdialog_title_text">Enter the password for \"%1$s\"</string>
+    <string name="antitheft_cancel">iptal</string>
+    <string name="antitheft_tips">uç</string>
+    <string name="antitheft_guide_agree_open_switch_text">Telefonu bulmayı Etkinleştir </string>
+    <string name="antitheft_guide_agree_text">Kaydolmak için bir mesaj göndermeyi kabul ediyorum ve ücretler operatörler tarafından ödenecek.</string>
+    <string name="antitheft_open_switch_tips">“Telefonu bulun "telefonunuzu bulmanıza veya kilitlemenize ve telefonunuzdaki tüm verileri uzaktan silmenize yardımcı olabilir. Kayıp telefonunuzu şu saatlerde bulabilirsiniz: zhao.lenovomm.com.</string>
+    <string name="antitheft_open_welcome_tips">Telefonu bulmaya hoş geldiniz</string>
+    <string name="antitheft_setting_safenumber_title">Acil İletişim</string>
+    <string name="antitheft_setting_safenumber_tips">Telefon kaybolduğunda, kart değiştirme konusunda bir kısa mesaj almak için acil durum numarası üzerinden bir SMS komutu gönderilebilir.Bir aile üyesi veya arkadaşınızın cep telefonu numarasını girmenizi öneririz.</string>
+    <string name="antitheft_setting_safenumber_hint_text">Lütfen telefon numarasını giriniz</string>
+    <string name="antitheft_setting_safenumber_again_hint_text">Lütfen telefon numarasını tekrar giriniz</string>
+    <string name="antitheft_setting_safenumber_again_guide_text">Telefon numarasını tekrar gir</string>
+    <string name="antitheft_setting_safenumber_no_null_text">Telefon numarası boş olamaz!</string>
+    <string name="antitheft_setting_safenumber_format_wrong_text">Geçersiz telefon numarası biçimi</string>
+    <string name="antitheft_setting_safenumber_disaccord_wrong_text">Rakamlar uyuşmuyor</string>
+    <string name="antitheft_setting_pinnumber_text">SIM kart PIN</string>
+    <string name="antitheft_pinnumber_lock_text">Bu etkinleştirildikten sonra, telefonunuzu kullanmak için bir PIN girmeniz gerekir. Böylece, telefon kaybolduğunda SIM kartınızın kötüye kullanılmasını önler.</string>
+    <string name="antitheft_emergency_contact_description">"Arama için kayıp telefona acil arama numarası yoluyla bir kısa mesaj gönder.
+Kilit talimatı: zhao#SD#
+Konumlandırma talimatı: zhao#DW#
+Alarm sesi: zhao#JB#"</string>
+    <string name="antitheft_setting_close_switch_dialog_text">bulu Kapat </string>
+    <string name="antitheft_setting_switchoff_hint_text">Lütfen hesap şifresini giriniz</string>
+    <string name="antitheft_setting_alertdialog_title_text">Için şifreyi girin \"%1$s\"</string>
     <string name="antitheft_sms_command_set_emergency_contact_notice1">[Find the phone](1/3)Your number %1$s has been set as an emergency contact.</string>
     <string name="antitheft_sms_command_set_emergency_contact_notice2">[Find the phone](3/3)You can also locate the phone on zhao.lenovomm.com,to locate the position of my phone and lock it remotely.</string>
     <string name="antitheft_sms_command_notice_all">"[Find the phone](3/3)When the phone is lost, please send one of the following SMSes to the lost phone.nTo Lock the phone：zhao#SD# 
