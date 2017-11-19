@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="mainui_cta_short_title_word">
-        <item>Access mobile network</item>
+        <item>Mobil şebekeye erişin</item>
     </string-array>
     <string-array name="mainui_cta_short_message_word">
-        <item>Connect the network to commit the log file</item>
+        <item>Günlük dosyasını tamamlamak için ağa bağlanın</item>
     </string-array>
     <string-array name="abandon_dialog">
         <item>@string/dialog_button_abandon_yes</item>
