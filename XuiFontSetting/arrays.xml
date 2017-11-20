@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="desktop_previewa_menu_list">
-        <item>set wallpaper</item>
-        <item>Cancel</item>
+        <item>Duvar kağıdı ayarla</item>
+        <item>İptal et</item>
     </string-array>
     <string-array name="lockscreen_previewa_menu_list">
-        <item>set wallpaper</item>
-        <item>Cancel</item>
+        <item>Duvar kağıdı ayarla</item>
+        <item>iptal et</item>
     </string-array>
     <string-array name="wallpapers">
         <item>wallpaper_000</item>
