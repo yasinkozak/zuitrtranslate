@@ -14,6 +14,6 @@
     </plurals>
     <plurals name="notif_summary_waiting">
         <item quantity="other">Indirmeyi bekliyor %d Bir dosya</item>
-        <item quantity="one">Indirmeyi bekliyor 1 Bir dosya</item>
+        <item quantity="one">Indirmeyi bekliyor 1 dosya</item>
     </plurals>
 </resources>
